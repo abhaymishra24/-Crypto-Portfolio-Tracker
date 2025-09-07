@@ -10,7 +10,6 @@ Before you begin, ensure you have met the following requirements:
 
 - You have installed the latest version of Node.js and npm.
 - You have a CoinGecko account and an API key.
-- 
 ### Donation Wallets
 
 - **Bitcoin (BTC):** `34rqfUFenX2EMvDfpn7phgiKdHbxTJ5Wuw`
